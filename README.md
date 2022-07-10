@@ -1,0 +1,3 @@
+# Supervised-PCA-vs-LDA-as-Pre-processing-for-Image-Classification
+
+One of the biggest issues when working with images is the high dimensionality of the data, commonly in the order of tens of thousands. In this paper, we present an analytical study comparing supervised Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) as dimensionality reduction methods for image classification using a simple deep neural network (DNN). We first explain the theoretical foundation of the two methods followed by an experimental comparison on the Modified National Institute of Standards and Technology (MNIST) dataset.
